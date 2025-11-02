@@ -22,6 +22,6 @@ Donanım / Gömülü Sistemler: NodeMCU V3 (ESP8266) , MPU6050 6 Eksen Sensörü
 Platform & Protokoller: Adafruit IO , MQTT , PlatformIO
 
 
-Not: Eğitilen modele drive linkinden erişebilirsiniz.
+Not: Eğitilen modele drive linkinden erişebilirsiniz. Ayrıca projenin sonuçlarına ve çalışma şeklini de AimGuard.pdf üzerinden görüntüleyebilirsiniz.
 
 Drive linki: https://drive.google.com/file/d/1TZcyHYAgqz2eSQ_7QTpkwoVuySOR_m5H/view?usp=sharing
