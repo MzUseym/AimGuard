@@ -2,7 +2,6 @@
 AimGuard: YOLOv8 ve MPU6050 kullanan, askeri eğitimler için akıllı bir güvenlik ve pozisyon algılama sistemi.
 
 AimGuard: YOLOv8 ve MPU6050 ile Askeri Eğitim Güvenlik Sistemi
-Bu proje, Düzce Üniversitesi Bilgisayar Mühendisliği bitirme projesi olarak geliştirilmiştir.
 
 🎯 Proje Özeti
 AimGuard, askeri eğitim süreçlerinde güvenliği artırmak ve kullanıcı hatalarını en aza indirmek için tasarlanmış teknoloji destekli bir sistemdir .
