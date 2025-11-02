@@ -20,3 +20,6 @@ Derin Öğrenme / Görüntü İşleme: Ultralytics YOLOv8 , Python , OpenCV , Ro
 Donanım / Gömülü Sistemler: NodeMCU V3 (ESP8266) , MPU6050 6 Eksen Sensörü , RGB LED , Buzzer
 
 Platform & Protokoller: Adafruit IO , MQTT , PlatformIO
+
+
+Not: Eğitilen modele drive linkinden erişebilirsiniz.
