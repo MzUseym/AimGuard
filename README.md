@@ -23,3 +23,5 @@ Platform & Protokoller: Adafruit IO , MQTT , PlatformIO
 
 
 Not: Eğitilen modele drive linkinden erişebilirsiniz.
+
+Drive linki: https://drive.google.com/file/d/1TZcyHYAgqz2eSQ_7QTpkwoVuySOR_m5H/view?usp=sharing
